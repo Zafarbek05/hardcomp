@@ -1,0 +1,2 @@
+# hardcomp
+Hardware comparison website
